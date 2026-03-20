@@ -36,7 +36,7 @@ This hypothesis is not diagnostic, not universal, and not singularly causal. It 
 ## Read the Full Manuscript
 
 The complete manuscript is available here:  
-👉 [Full Manuscript](./sodium-struggle.html) *(coming soon)*
+👉 [Full Manuscript](https://canadiankaty.github.io/sodium-struggle/sodium-struggle.html)
 
 Also archived at:
 - [Zenodo](https://doi.org/10.5281/zenodo.18140467)
