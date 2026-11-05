@@ -1,62 +1,30 @@
-# sodium-struggle
-Autism has resisted every simple story. This hypothesis asks what must be stabilised in fetal life or the system fails — and proposes that repeated perinatal sodium-volume-perfusion defence imprints durable physiological operating points underlying a subset of autism.
+# The Sodium Struggle Hypothesis
 
-# The Sodium-Struggle Hypothesis
+**The Sodium Struggle Hypothesis: Autism as a Manifestation of Compensatory Physiology in Coupled Osmotic–Volume Defence**
 
-**Full title:** The Sodium-Struggle Hypothesis: Autism as a Long-Term Developmental Consequence of Perinatal Defence Against Hyponatraemia and Hypovolaemia
+**Author:** Kathleen Roberta Bell, Independent Researcher  
+**Manuscript revised:** 1 November 2026
 
-**Author:** Kathleen Roberta Bell (Independent Researcher)  
-**Last updated:** March 2026
+## Read the manuscript
 
----
+- [Read the complete paper on the website](https://canadiankaty.github.io/sodium-struggle/sodium-struggle.html)
+- [Download the complete Markdown manuscript](https://canadiankaty.github.io/sodium-struggle/K_R_Bell_Sodium_Struggle_Hypothesis_2026-11-01.md)
+- [View the Markdown source on GitHub](K_R_Bell_Sodium_Struggle_Hypothesis_2026-11-01.md)
+- [Current Figshare record and DOI](https://doi.org/10.6084/m9.figshare.34908252)
+- [Zenodo archive: 10.5281/zenodo.18140467](https://doi.org/10.5281/zenodo.18140467)
 
-## What This Hypothesis Proposes
+The website and Markdown file contain the full parent manuscript, its references and all 31 tables. Each of the 10 figures is represented by a written description with its original caption retained, as provided in the Markdown edition.
 
-A subset of autism may arise not from a single gene or toxin, but from the developmental imprint left by repeated perinatal defence against sodium-volume-perfusion instability. When a fetus or newborn repeatedly recruits its emergency survival systems — vasopressin (AVP), the renin-angiotensin-aldosterone system (RAAS), autonomic vasomotor control — during sensitive calibration windows, those defensive operating points may consolidate into durable physiological set-points. The hypothesis proposes that this imprinting, not chronic electrolyte abnormality, is the mechanism linking perinatal sodium-volume instability to autism-related neurodevelopmental divergence.
+## About the hypothesis
 
-This is not a claim that autism is caused by low sodium. It is a claim that the *defence against* threatened sodium-volume-perfusion stability — when repeatedly recruited during fetal and early postnatal calibration windows — may leave distributed imprints across vascular, renal, autonomic, hypothalamic, glial, and ion-transport systems.
+This hypothesis proposes that diverse initiating conditions may contribute to later features of autism through impaired local neural or glial ionic or cell-volume recovery during sensitive development. It evaluates that proposed connection through compensatory physiology in coupled osmotic–volume defence. The central developmental inference remains unresolved.
 
----
-
-## Key Mechanisms
-
-- Repeated osmotic stress biases toward NKCC1-weighted chloride transport, delayed inhibitory maturation, and vulnerability of fast-spiking interneuron circuitry
-- Vasopressin (AVP) recruitment at the hypothalamic level may relatively downweight oxytocin buffering
-- Imprinted operating points accommodate normal serum sodium through compartmental compensation
-- Phenotypic heterogeneity and state-dependent unmasking are predicted features, not exceptions
-
----
-
-## What This Hypothesis Is Not
-
-This hypothesis is not diagnostic, not universal, and not singularly causal. It is offered as a testable physiological scaffold. It does not claim all autism arises this way, and it does not pathologize autistic neurology as mere damage.
-
----
-
-## Read the Full Manuscript
-
-The complete manuscript is available here:  
-👉 [Full Manuscript](https://canadiankaty.github.io/sodium-struggle/sodium-struggle.html)
-
-Also archived at:
-- [Zenodo](https://doi.org/10.5281/zenodo.18140467)
-- [OSF](https://osf.io/p3uvq/overview?view_only=9946d36ce9cf4af29b16f043d4c1191c)
-- [ResearchGate](https://www.researchgate.net/publication/402710473_The_Sodium-Struggle_Hypothesis_Autism_as_a_Long-Term_Developmental_Consequence_of_Perinatal_Defence_Against_Hyponatraemia_and_Hypovolaemia)
-
----
-
-## Keywords
-
-autism, sodium, vasopressin, AVP, RAAS, NKCC1, KCC2, chloride, perinatal, hyponatraemia, hypovolaemia, neurodevelopment, osmotic stress, perfusion, autonomic, fetal imprinting, inhibitory maturation, GABA, extracellular tonicity, sodium-volume defence
-
----
+The manuscript distinguishes evidence for physiological components from the proposed developmental connections. Clinical hyponatraemia and a preceding systemic disturbance are not required by the hypothesis.
 
 ## Citation
 
-Bell, K. R. (2026). *The Sodium-Struggle Hypothesis: Autism as a Long-Term Developmental Consequence of Perinatal Defence Against Hyponatraemia and Hypovolaemia.* Independent manuscript. Available at: https://canadiankaty.github.io/sodium-struggle
+Bell, K. R. (2026). *The Sodium Struggle Hypothesis: Autism as a Manifestation of Compensatory Physiology in Coupled Osmotic–Volume Defence*. Revised 1 November 2026. https://doi.org/10.6084/m9.figshare.34908252
 
----
+## Licence
 
-## License
-
-This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt this material with appropriate credit to Kathleen Roberta Bell.
+This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), with attribution to Kathleen Roberta Bell.
