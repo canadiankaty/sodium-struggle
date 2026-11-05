@@ -46,6 +46,9 @@ li { margin-bottom: .45rem; }
 blockquote { border-left: 3px solid #a7c9cc; margin: 1.3rem 0; padding: .4rem 1.25rem; color: #354a52; }
 blockquote p:last-child { margin-bottom: 0; }
 .edition-note { font-size: .85rem; color: var(--muted); padding: .85rem 1rem; border-left: 3px solid var(--teal); background: var(--wash); margin-bottom: 2rem; }
+.visit-counter { font: .85rem/1.6 system-ui, -apple-system, 'Segoe UI', sans-serif; color: var(--muted); margin: 0 0 1.5rem; }
+.visit-counter strong { color: var(--teal); font-variant-numeric: tabular-nums; }
+.visit-counter small { font-size: .78rem; }
 .contents { background: var(--wash); border: 1px solid var(--line); border-radius: .35rem; padding: 1.15rem 1.4rem; margin: 2.2rem 0; }
 .contents summary { cursor: pointer; color: #163f46; font: 600 1.05rem/1.5 system-ui, sans-serif; }
 .contents nav { padding-top: 1.5rem; font-size: 1rem; }
@@ -81,7 +84,7 @@ code { font-size: .9em; }
 }
 @media print {
   body { font-size: 11pt; }
-  .site-header, .skip-link, .edition-note, .site-footer, .actions { display: none; }
+  .site-header, .skip-link, .edition-note, .site-footer, .actions, .visit-counter { display: none; }
   main { max-width: none; padding: 0; }
   h1, h2, h3, h4 { break-after: avoid; }
   .table-scroll { overflow: visible; border: none; }
@@ -97,6 +100,7 @@ code { font-size: .9em; }
 </div></header>
 <main id="main-content">
 <aside class="edition-note">Full-text edition · Revised 1 November 2026. This edition includes written descriptions of the figures. <a href="K_R_Bell_Sodium_Struggle_Hypothesis_2026-11-01.md" download>Download the complete Markdown manuscript</a>.<br>Archive and publication links: <a href="https://doi.org/10.6084/m9.figshare.34908252">Figshare: 10.6084/m9.figshare.34908252</a> · <a href="https://doi.org/10.5281/zenodo.18140467">Zenodo: 10.5281/zenodo.18140467</a> · <a href="https://www.researchgate.net/publication/402710473_The_Sodium-Struggle_Hypothesis_Autism_as_a_Long-Term_Developmental_Consequence_of_Perinatal_Defence_Against_Hyponatraemia_and_Hypovolaemia">ResearchGate</a>.</aside>
+<p class="visit-counter" title="Recorded manuscript visits since 4 November 2026. The public total may take up to four hours to update.">Paper visits: <strong id="paper-visit-count" aria-live="polite">unavailable</strong> <small>· since 4 November 2026</small></p>
 <article id="manuscript"><p><a name="ss_title" id="ss_title"></a></p>
 <h1 id="the-sodium-struggle-hypothesis-autism-as-a-manifestation-of-compensatory-physiology-in-coupled-osmoticvolume-defence">The Sodium Struggle Hypothesis: Autism as a Manifestation of Compensatory Physiology in Coupled Osmotic–Volume Defence</h1>
 <p><a name="_heading=h.r19opgnm9f0" id="_heading=h.r19opgnm9f0"></a><strong>Kathleen Roberta Bell</strong><br>
@@ -5872,4 +5876,6 @@ Independent Researcher</p>
 <p>Kathleen Roberta Bell · Manuscript revised 1 November 2026.</p>
 <p><a href="https://doi.org/10.6084/m9.figshare.34908252">Current Figshare record</a> · <a href="https://doi.org/10.5281/zenodo.18140467">Zenodo archive</a> · <a href="https://www.researchgate.net/publication/402710473_The_Sodium-Struggle_Hypothesis_Autism_as_a_Long-Term_Developmental_Consequence_of_Perinatal_Defence_Against_Hyponatraemia_and_Hypovolaemia">ResearchGate publication</a> · <a href="https://github.com/canadiankaty/sodium-struggle">GitHub repository</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></p>
 </footer>
+<script data-goatcounter="https://canadiankaty.goatcounter.com/count" data-goatcounter-settings="{&quot;path&quot;: &quot;/sodium-struggle/sodium-struggle.html&quot;}" async src="https://gc.zgo.at/count.js"></script>
+<script defer src="analytics.js"></script>
 </body></html>
