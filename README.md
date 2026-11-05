@@ -12,6 +12,7 @@
 - [View the Markdown source on GitHub](K_R_Bell_Sodium_Struggle_Hypothesis_2026-11-01.md)
 - [Current Figshare record and DOI](https://doi.org/10.6084/m9.figshare.34908252)
 - [Zenodo archive: 10.5281/zenodo.18140467](https://doi.org/10.5281/zenodo.18140467)
+- [ResearchGate publication record](https://www.researchgate.net/publication/402710473_The_Sodium-Struggle_Hypothesis_Autism_as_a_Long-Term_Developmental_Consequence_of_Perinatal_Defence_Against_Hyponatraemia_and_Hypovolaemia) (listed under the earlier manuscript title)
 
 The website and Markdown file contain the full parent manuscript, its references and all 31 tables. Each of the 10 figures is represented by a written description with its original caption retained, as provided in the Markdown edition.
 
