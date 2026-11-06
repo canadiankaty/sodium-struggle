@@ -3,7 +3,8 @@
 # The Sodium Struggle Hypothesis: Autism as a Manifestation of Compensatory Physiology in Coupled Osmotic–Volume Defence
 
 <a name="_heading=h.r19opgnm9f0"></a>**Kathleen Roberta Bell**  
-Independent Researcher
+Independent Researcher  
+Correspondence to [kathleenrobertabell@gmail.com](mailto:kathleenrobertabell@gmail.com)
 
 Revised 1 November 2026
 
