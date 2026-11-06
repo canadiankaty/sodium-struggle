@@ -9,10 +9,12 @@ Revised 1 November 2026
 
 *Markdown edition: The complete parent manuscript is reproduced below. Each figure is replaced by a text description; its original caption is retained.*
 
-A concise conceptual summary of this hypothesis is available as:
+The hypothesis has been public since [October 2025](https://zenodo.org/records/18140468). The oldest active DOI listed here for the full manuscript is [10.5281/zenodo.18140467](https://doi.org/10.5281/zenodo.18140467). Zenodo registered it on 3 January 2026 as a single link for all versions in that record.
 
-**The Sodium-Struggle Hypothesis of Autism: A Sodium–Volume Defence Systems Physiology Framework (Summary of a Larger Hypothesis)**  
-https://doi.org/10.6084/m9.figshare.31885234
+Kathleen Roberta Bell licenses the entire text of this GitHub project, including the full manuscript in HTML and Markdown, under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+**[Summary of The Sodium-Struggle Hypothesis of Autism: compensatory measures in developmental sodium-volume defence](https://www.researchgate.net/publication/412311452_Summary_of_The_Sodium-Struggle_Hypothesis_of_Autism_compensatory_measures_in_developmental_sodium-volume_defence)**  
+[Kathleen Bell](https://www.researchgate.net/profile/Kathleen-Bell-13) · August 2026 · [DOI 10.13140/RG.2.2.30085.51680](https://doi.org/10.13140/RG.2.2.30085.51680) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Abstract
 
@@ -6057,9 +6059,9 @@ Section [23.13](#ss_p10_sec_23_13) states the decisive unresolved boundary. A we
 
 Current working manuscript: Bell, Kathleen Roberta. The Sodium Struggle Hypothesis: Autism as a Manifestation of Compensatory Physiology in Coupled Osmotic–Volume Defence. Revised 1 November 2026.
 
-Earlier publicly archived work:
+Zenodo lists [19 October 2025](https://zenodo.org/records/18140468) as the publication date of the first archived version. The [Zenodo DOI 10.5281/zenodo.18140467](https://doi.org/10.5281/zenodo.18140467) covers all versions of that record.
 
-Bell, Kathleen Roberta. *The Sodium Struggle as a Physiological Framework*. figshare. [<u>https://doi.org/10.6084/m9.figshare.31894729</u>](https://doi.org/10.6084/m9.figshare.31894729)
+Bell, Kathleen Roberta. *The Sodium Struggle as a Physiological Framework*. Former Figshare record, DOI `10.6084/m9.figshare.31894729`.
 
 ## Acknowledgements
 
