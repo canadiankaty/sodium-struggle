@@ -1,0 +1,254 @@
+Kathleen R. Bell
+ORCID: 0000-0003-0452-8139
+Independent researcher
+
+Satterstrom-102 × Sodium-Struggle
+v46.20 Public Supplement — Quality Assurance, Integrity and Checksums
+Prepared for attachment to the accompanying preprint
+
+PLAIN-LANGUAGE PURPOSE
+
+This note accompanies the public spreadsheet supplements. The analytical data set contains a fixed
+denominator of 102 Satterstrom autism-risk genes and a frozen strict numerator of 42 genes under the
+documented qualifying gates. The public spreadsheet files below are presentation-only derivatives of
+the frozen analytical workbook. No analytical value, formula, status, strict count, primary domain or
+numerator gate was intentionally changed.
+
+RECOMMENDED PUBLIC FILES
+
+1. Reader edition — easiest file for referees and readers to open
+   File: Bell_Satterstrom102_v46.20_Publication_Tables_READER.xlsx
+   Sheets: 10
+   SHA-256: fb77ae6770c5894ac9be962d58f4388a4fa50224684217e5fb79cfeeaa240a4c
+
+2. Full audit master — complete version history and provenance record
+   File: Bell_Satterstrom102_v46.20_Frozen_Full_Audit_Master_PUBLIC.xlsx
+   Sheets: 207, including the added README
+   SHA-256: 4e92c438a78dfc0177adb5e6a798d75fcb8b2679d68232fcf9d75bc5b7dc5a50
+
+3. This QA and checksum note
+   File: Bell_Satterstrom102_v46.20_Public_Supplement_QA_and_Checksums.txt
+
+FROZEN ANALYTICAL SOURCE
+
+Original analytical workbook:
+Satterstrom_102_v46.20_Numerator_Freeze_Working_Master.xlsx
+SHA-256: f8b4c3b64aa13d6fbd48a5e97265dd741ca87974b2fab05b596cc2bc29cfe551
+
+Freeze identifier: NF-2026-08-11-v46.20
+Fixed genes: 102
+Frozen strict numerator: 42/102
+Count-0 rows: 60
+
+PRESENTATION-ONLY PUBLIC PATCH
+
+The following changes were made solely to improve public usability:
+
+- Added a README sheet.
+- Moved current v46 publication and audit sheets to the front of the full workbook.
+- Set README as the opening sheet.
+- Shortened three sheet names that exceeded Excel's 31-character compatibility limit:
+  * v46.7 Fourth Gathering Decisions -> v46.7 Fourth Decisions
+  * v46.7 Evidence Specificity Audit -> v46.7 Evidence Audit
+  * v46.18 Baseline Positive Control -> v46.18 Baseline Control
+- Updated textual references to those three names.
+- Removed local container path prefixes such as /mnt/data/ while retaining source filenames and hashes.
+- Replaced a non-public theme label with a neutral public-data label.
+- Added a ten-sheet reader edition copied from the authoritative current tables.
+- Added public-facing author, ORCID, navigation and integrity guidance.
+
+Count effect: 0.
+Status effect: 0.
+Primary-domain effect: 0.
+Numerator-gate effect: 0.
+
+HOW TO USE THE FULL WORKBOOK
+
+Open the README sheet first. The principal current sheets are:
+
+- v46 START HERE
+- v46 Dashboard
+- v46 Final 102 Map
+- v46 Count by Gate
+- v46 Domain Summary
+- v46.6 Systems Role Matrix
+- v46.8 Ascertainment Provenance
+- v46.19 Distribution & Gates
+- v46.20 Numerator Freeze
+- v46.20 QA
+
+The remaining sheets preserve the historical versions, evidence-preservation records, creative
+discoveries, rejected overclaims, source locks, decision ledgers and quality-assurance chain. Sheets
+beginning with v45 or earlier are historical and superseded for current publication analysis.
+
+PLAIN-LANGUAGE DEFINITIONS OF INTERNAL AUDIT TERMS
+
+HB-05
+A retrospective audit of status and baseline history. Part 1 checked whether each current row followed
+the final status rules. Part 2 compared the status a reviewer believed was current with the master
+workbook that was actually active at the time.
+
+Seeded positive control
+A previously known error deliberately included as a test of whether an audit method can detect the
+kind of failure it is supposed to detect.
+
+Structurally protected
+The reviewer did not receive a verified baseline and therefore withheld the count decision rather than
+guessing. That review was protected from silently changing the numerator.
+
+Coverage-limited or unverifiable
+The historical record was insufficient to establish a full comparison. These rows were not counted as
+conforming.
+
+Strict numerator
+One qualifying primary endpoint may count once per gene. Secondary or creative routes cannot create
+duplicate counts.
+
+Freeze
+The strict numerator was frozen at 42/102 in v46.20. Any later count change must be recorded as an
+explicit post-freeze amendment; silent edits are prohibited.
+
+PUBLIC-FILE TECHNICAL QA
+
+Full audit master:
+- ZIP/XLSX package integrity: PASS
+- Visible sheets: 207
+- Opening sheet: README
+- Sheet names longer than 31 characters: 0
+- Missing worksheet relationship targets: 0
+- Local /mnt/data path prefixes remaining: 0
+- Core/custom personal metadata parts: 0
+- Macro/VBA parts: 0
+- External-link parts: 0
+
+Reader edition:
+- ZIP/XLSX package integrity: PASS
+- Visible sheets: 10
+- Opening sheet: README
+- Sheet names longer than 31 characters: 0
+- Formula dependencies retained within the reader edition
+- Core/custom personal metadata parts: 0
+- Macro/VBA parts: 0
+- External-link parts: 0
+
+RELATED HYPOTHESIS RECORD
+
+Bell KR. The Sodium-Struggle Hypothesis of Autism.
+Zenodo record 19700479:
+https://zenodo.org/records/19700479
+
+-------------------------------------------------------------------------------
+ORIGINAL v46.20 ANALYTICAL QA RECORD
+The analytical statements below are preserved from the frozen source QA record.
+-------------------------------------------------------------------------------
+
+Satterstrom-102 × Sodium-Struggle
+v46.20 Baseline Provenance / Ascertainment Closure / Numerator Freeze QA
+Date: 2026-08-11
+
+OUTPUT
+Satterstrom_102_v46.20_Numerator_Freeze_Working_Master.xlsx
+SHA-256: f8b4c3b64aa13d6fbd48a5e97265dd741ca87974b2fab05b596cc2bc29cfe551
+
+INPUT
+Satterstrom_102_v46.19_Status_Distribution_HB05_Working_Master.xlsx
+SHA-256: 8d6bf56eea9fcc1a8d8404f5e0025c3f99ae36345c0025d43dedaacdfe76b63b
+
+FINAL ACTIVE STATE
+Fixed genes: 102
+Frozen strict numerator: 42
+Count-0 rows: 60
+Freeze ID: NF-2026-08-11-v46.20
+
+COUNT EFFECT
+Strict-count changes in v46.20: 0
+Primary-domain changes in v46.20: 0
+Status changes in v46.20: 0
+Numerator-gate changes in v46.20: 0
+The active numerator is frozen at 42/102 under the current counting rules.
+
+HB-05 PART 2
+Batch-to-version index rows: 14
+Review-baseline audit rows: 102
+Seeded positive controls detected: 5/5
+Mismatch/flag records: 6
+- MBD5
+- KDM6B
+- IRF2BPL
+- GRIN2B
+- DYNC1H1
+- CTNNB1
+All six had already been re-adjudicated before v46.20; no new numerator movement resulted.
+
+HB-05 COVERAGE
+Full status/verifiable comparison: 23
+Count-only comparison: 17
+Structurally protected: 16
+Coverage-limited/unverifiable: 46
+Unverifiable rows were not classified as conforming.
+Batch 14 protection was verified per review: 9/9 structurally protected.
+
+HB-05 OUTCOME CLASSES
+CONFORMS: 18
+CONFORMS — COUNT ONLY: 17
+MISMATCH: 4
+MISMATCH — STALE VERSION USED: 1
+BASELINE NOT STATED / FLAGGED: 1
+STRUCTURALLY PROTECTED: 16
+NOTHING STATED / UNVERIFIABLE: 39
+REVIEW SOURCE UNAVAILABLE: 3
+MASTER-AT-TIME NOT RESOLVABLE: 3
+Total: 102
+
+ASCERTAINMENT CLOSURE
+Final pending rows audited: 20
+Full matrix audited: 102/102
+Pending rows: 0
+Counted formerly-pending rows audited: 7
+Non-counted formerly-pending rows audited: 13
+Count changes from ascertainment closure: 0
+TRAF7's human-missense versus LoF-endothelial mismatch is explicit. Its prior exact-gene local-gate count is retained under the existing adjudicated rule; human missense equivalence is not claimed.
+
+SYSTEMS ROLE CLOSURE
+Final pending rows completed: 5
+Full matrix reviewed/adjudicated: 102/102
+Pending rows: 0
+No count effect.
+
+FREEZE RULE
+Any strict-count change after v46.20 must be entered as a post-freeze amendment in the delta/change ledgers.
+Silent edits to the frozen numerator are prohibited.
+Presentation work may continue without silently reopening counts.
+
+OPEN PRESENTATION / SUPPLEMENT WORK
+- Domain occupancy and measurability/gate-class panels
+- Master corridor-register consolidation
+- Numerical Load–Reserve–Controller presentation
+Optional:
+- Full strength/CK/muscle-mass extraction
+- IMPC equal-depth screen
+
+QA RESULTS
+Map strict sum: 42
+Count-by-Gate sum: 42
+Domain Summary count sum: 42
+Systems Role reviewed: 102
+Systems Role pending: 0
+Ascertainment audited: 102
+Ascertainment pending: 0
+HB-05 Part 2 rows: 102
+Formula errors before export: 0
+Formula errors after serialized re-import: 0
+XLSX ZIP integrity error: none
+Macro/VBA parts: 0
+External-link parts: 0
+Hidden/very-hidden sheets: 0
+
+SERIALIZED FREEZE CHECK
+{"kind":"table","sheet":"v46.20 Numerator Freeze","address":"A16:D17","rows":2,"cols":4,"values":[["Freeze ID","Version","Freeze date","Frozen numerator"],["NF-2026-08-11-v46.20","v46.20","2026-08-11",42]]}
+
+FINAL STATUS
+v46.20 supersedes v46.19 as the current working master.
+The strict numerator is frozen at 42/102.
+All count-sensitive pre-freeze audits are complete.
+

@@ -23,6 +23,20 @@ The website and Markdown file contain the full parent manuscript, its references
 **[Summary of The Sodium-Struggle Hypothesis of Autism: compensatory measures in developmental sodium-volume defence](https://www.researchgate.net/publication/412311452_Summary_of_The_Sodium-Struggle_Hypothesis_of_Autism_compensatory_measures_in_developmental_sodium-volume_defence)**  
 [Kathleen Bell](https://www.researchgate.net/profile/Kathleen-Bell-13) · August 2026 · [DOI 10.13140/RG.2.2.30085.51680](https://doi.org/10.13140/RG.2.2.30085.51680) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+## Satterstrom 102-gene paper
+
+**Mapping 102 autism-risk genes in relation to the Sodium-Struggle Hypothesis: a gated phenotype-first systems-physiology classification**  
+Kathleen Roberta Bell · v46.20 · August 2026  
+[DOI 10.13140/RG.2.2.28407.79522](https://doi.org/10.13140/RG.2.2.28407.79522) · Correspondence to [kathleenrobertabell@gmail.com](mailto:kathleenrobertabell@gmail.com)
+
+Of the 102 autism-risk genes identified by Satterstrom and colleagues, 42 met the paper’s criteria for inclusion in the strict count.
+
+- [Manuscript (PDF)](https://github.com/canadiankaty/sodium-struggle/raw/refs/heads/main/papers/satterstrom-102/Bell_Satterstrom102_v46.20.pdf)
+- [Manuscript (Word)](https://github.com/canadiankaty/sodium-struggle/raw/refs/heads/main/papers/satterstrom-102/Bell_Satterstrom102_v46.20.docx)
+- [Publication tables for readers (Excel, 10 sheets)](https://github.com/canadiankaty/sodium-struggle/raw/refs/heads/main/papers/satterstrom-102/Bell_Satterstrom102_v46.20_Publication_Tables_READER.xlsx)
+- [Full audit workbook (Excel, 207 sheets)](https://github.com/canadiankaty/sodium-struggle/raw/refs/heads/main/papers/satterstrom-102/Bell_Satterstrom102_v46.20_Frozen_Full_Audit_Master_PUBLIC.xlsx)
+- [Quality assurance and checksums (text)](https://github.com/canadiankaty/sodium-struggle/raw/refs/heads/main/papers/satterstrom-102/Bell_Satterstrom102_v46.20_Public_Supplement_QA_and_Checksums.txt)
+
 ## About the hypothesis
 
 This hypothesis proposes that diverse initiating conditions may contribute to later features of autism through impaired local neural or glial ionic or cell-volume recovery during sensitive development. It evaluates that proposed connection through compensatory physiology in coupled osmotic–volume defence. The central developmental inference remains unresolved.
