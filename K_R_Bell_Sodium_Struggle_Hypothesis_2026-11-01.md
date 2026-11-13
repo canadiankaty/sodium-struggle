@@ -4,7 +4,7 @@
 
 <a name="_heading=h.r19opgnm9f0"></a>**Kathleen Roberta Bell**  
 Independent Researcher  
-Correspondence to [kathleenrobertabell@gmail.com](mailto:kathleenrobertabell@gmail.com)
+Correspondence to [kathleen.bell@alumni.carleton.ca](mailto:kathleen.bell@alumni.carleton.ca)
 
 Revised 1 November 2026
 

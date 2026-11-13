@@ -3,7 +3,7 @@
 **The Sodium Struggle Hypothesis: Autism as a Manifestation of Compensatory Physiology in Coupled Osmotic–Volume Defence**
 
 **Author:** Kathleen Roberta Bell, Independent Researcher  
-Correspondence to [kathleenrobertabell@gmail.com](mailto:kathleenrobertabell@gmail.com)  
+Correspondence to [kathleen.bell@alumni.carleton.ca](mailto:kathleen.bell@alumni.carleton.ca)  
 **Manuscript revised:** 1 November 2026
 
 The hypothesis has been public since [October 2025](https://zenodo.org/records/18140468). The oldest active DOI listed here for the full manuscript is [10.5281/zenodo.18140467](https://doi.org/10.5281/zenodo.18140467). Zenodo registered it on 3 January 2026 as a single link for all versions in that record.
@@ -27,7 +27,7 @@ The website and Markdown file contain the full parent manuscript, its references
 
 **Mapping 102 autism-risk genes in relation to the Sodium-Struggle Hypothesis: a gated phenotype-first systems-physiology classification**  
 Kathleen Roberta Bell · v46.20 · August 2026  
-[DOI 10.13140/RG.2.2.28407.79522](https://doi.org/10.13140/RG.2.2.28407.79522) · Correspondence to [kathleenrobertabell@gmail.com](mailto:kathleenrobertabell@gmail.com)
+[DOI 10.13140/RG.2.2.28407.79522](https://doi.org/10.13140/RG.2.2.28407.79522) · Correspondence to [kathleen.bell@alumni.carleton.ca](mailto:kathleen.bell@alumni.carleton.ca)
 
 Of the 102 autism-risk genes identified by Satterstrom and colleagues, 42 met the paper’s criteria for inclusion in the strict count.
 
